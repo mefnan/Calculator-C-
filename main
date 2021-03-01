@@ -1,54 +1,3 @@
-
-
-Skip to content
-Using Gmail with screen readers
-is:sent after:2016/10/10 before:2016/12/12 
-Meet
-New meeting
-Join a meeting
-Hangouts
-
-10 of many
-calculator
-Inbox
-
-Efnan Merdan <merdanefnan@gmail.com>
-Attachments
-Wed, Dec 7, 2016, 5:12 PM
-to me
-
-
-Attachments area
-
-Efnan Merdan <merdanefnan@gmail.com>
-Attachments
-Wed, Dec 7, 2016, 5:12 PM
-to me
-
-
-
-On Wed, Dec 7, 2016 at 5:12 PM, Efnan Merdan <merdanefnan@gmail.com> wrote:
-
-
-
-Attachments area
-
-Efnan Merdan <merdanefnan@gmail.com>
-Attachments
-Wed, Dec 7, 2016, 5:12 PM
-to me
-
-
-Attachments area
-
-Efnan Merdan <merdanefnan@gmail.com>
-Attachments
-Wed, Dec 7, 2016, 5:15 PM
-to me
-
-
-Attachments area
-
 #include <iostream>
 #include <cmath>
 
@@ -173,5 +122,3 @@ int main ()
 	}
 	return 0;
 }
-main.cpp
-Page 1 of 5
